@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">690963555267</string>
+  <string name="google_storage_bucket" translatable="false">puzzle-dogrush.appspot.com</string>
+  <string name="project_id" translatable="false">puzzle-dogrush</string>
+  <string name="google_api_key" translatable="false">AIzaSyAREH_1Uww0O3AWLCGUU8aTUEdb7wLjIhY</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAREH_1Uww0O3AWLCGUU8aTUEdb7wLjIhY</string>
+  <string name="google_app_id" translatable="false">1:690963555267:android:91cdb0ed8d2253b3c05376</string>
+  <string name="default_web_client_id" translatable="false">690963555267-rlvigrpsdcgrbqcfqcibggh8lj357gfe.apps.googleusercontent.com</string>
+</resources>

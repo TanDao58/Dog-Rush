@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690963555267",
+    "project_id": "puzzle-dogrush",
+    "storage_bucket": "puzzle-dogrush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690963555267:android:91cdb0ed8d2253b3c05376",
+        "android_client_info": {
+          "package_name": "com.gen.dogerush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690963555267-rlvigrpsdcgrbqcfqcibggh8lj357gfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAREH_1Uww0O3AWLCGUU8aTUEdb7wLjIhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690963555267-rlvigrpsdcgrbqcfqcibggh8lj357gfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
